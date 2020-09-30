@@ -10,11 +10,12 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
-* <!–…–>	Define un comentario
-* <!DOCTYPE>	Define el tipo de docuemento
-* <a>	Define un hipervínculo
-* <abbr>	Define una abreviación
-* <address>	Define la información de contacto del autor / propietario del documento
+´´´html
+<!–…–>	Define un comentario
+<!DOCTYPE>	Define el tipo de docuemento
+<a>	Define un hipervínculo
+<abbr>	Define una abreviación
+<address>	Define la información de contacto del autor / propietario del documento
 <area>	Define un área dentro de un mapa de imagen
 <article>	Define un artículo
 <aside>	Define el contenido lateral del contenedor de una página
@@ -115,6 +116,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 <var>	Define una variable
 <video>	Define un vídeo o película
 <wbr>	Define un posible salto de linea
+´´´
 
 ### Estructura de un archivo .html
 ```html
