@@ -10,6 +10,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
+Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej: `<etiqueta>Codigo de ejemplo</etiqueta>`
 ```html
 
 <!–…–>	    Define un comentario
