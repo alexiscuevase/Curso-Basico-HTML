@@ -17,6 +17,7 @@ Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej:
 
 <etiqueta propiedad="valor de la propiedad"> Codigo de ejemplo </etiqueta>
 ```
+la ultima etiqueta siempre cierra con un  ( / ) al principio
 ### Etiquetas de html
 ```html
 <!–…–>	    Define un comentario
@@ -124,7 +125,6 @@ Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej:
 <var>	    Define una variable
 <video>	    Define un vídeo o película
 <wbr>	    Define un posible salto de linea
-
 ```
 
 ### Estructura de un archivo .html
