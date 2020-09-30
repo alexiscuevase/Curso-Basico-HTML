@@ -10,6 +10,8 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
+*1 <!DOCTYPE>
+
 ### Estructura de un archivo .html
 ```html
 <!DOCTYPE html>
