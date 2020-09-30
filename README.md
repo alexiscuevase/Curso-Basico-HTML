@@ -10,7 +10,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
-```php
+```html
 <!–…–>	Define un comentario
 <!DOCTYPE>	Define el tipo de docuemento
 <a>	Define un hipervínculo
@@ -90,9 +90,9 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 <ruby>	Define una notación de ruby
 <s>	Define texto que no es correcto
 <samp>	Define un ejemplo de salida de un programa
-<script>	Define un script del lado cliente
-<section>	Define una sección de un documento
-<select>	Define un drop-down list
+<script> Define un script del lado cliente
+<section> Define una sección de un documento
+<select> Define un drop-down list
 <small>	Define texto pequeño
 <source>	Define los recursos para elementos multimedia
 <span>	Define una pequeña sección de un documento
