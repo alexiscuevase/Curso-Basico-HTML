@@ -10,7 +10,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
-´´´html
+```html
 <!–…–>	Define un comentario
 <!DOCTYPE>	Define el tipo de docuemento
 <a>	Define un hipervínculo
