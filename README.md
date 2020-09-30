@@ -10,14 +10,16 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 ## Empezemos
 ### Etiquetas basicas de HTML
-First Header | Second Header
+
+Etiqueta | Descripcion
 ------------ | -------------
 <!–…–>  | Define un comentario
+<!–…–>  | Define un comentario
+<!–…–>  | Define un comentario
 <!DOCTYPE> | Define el tipo de docuemento
-
 <a> | Define un hipervínculo
 <abbr> | Define una abreviación
-<address> |	Define la información de contacto del autor / propietario del documento
+<address> |	Define la información de contacto del autor
 <area> | Define un área dentro de un mapa de imagen
 <article> | Define un artículo
 <aside> | Define el contenido lateral del contenedor de una página
@@ -113,10 +115,10 @@ First Header | Second Header
 <time> |	Define fecha / hora
 <title> |	Define un título para el documento
 <tr> |	Define una fila en una tabla
-<track> |	Define texto de la pista para elementos multimedia (vídeo y audio)
-<ul> |	Define una lista desordenada
+<track> | Define texto de la pista para elementos multimedia (vídeo y audio)
+<ul> | Define una lista desordenada
 <var> |	Define una variable
-<video> |	Define un vídeo o película
+<video> | Define un vídeo o película
 <wbr> |	Define un posible salto de linea
 
 ### Estructura de un archivo .html
