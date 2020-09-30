@@ -13,16 +13,16 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 Etiqueta | Descripcion
 ------------ | -------------
 <!–…–>	Define un comentario
-<!DOCTYPE> |	Define el tipo de docuemento
-<a> |	Define un hipervínculo
-<abbr> |	Define una abreviación
+<!DOCTYPE> | Define el tipo de docuemento
+<a> | Define un hipervínculo
+<abbr> | Define una abreviación
 <address> |	Define la información de contacto del autor / propietario del documento
-<area> |	Define un área dentro de un mapa de imagen
-<article> |	Define un artículo
-<aside> |	Define el contenido lateral del contenedor de una página
-<audio> |	Define contenido de sonido
-<b> |	Define texto en negrita
-<base> |	Especifica la base donde se abrirán todas las URL del documento
+<area> | Define un área dentro de un mapa de imagen
+<article> | Define un artículo
+<aside> | Define el contenido lateral del contenedor de una página
+<audio> | Define contenido de sonido
+<b> | Define texto en negrita
+<base> | Especifica la base donde se abrirán todas las URL del documento
 <bdi> |	Aísla una parte del texto que puede tener un formato diferente del texto externo
 <bdo> |	Sobreescribe la dirección del texto
 <blockquote> |	Define una sección que tiene otra fuente
