@@ -116,7 +116,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 <var>	Define una variable
 <video>	Define un vídeo o película
 <wbr>	Define un posible salto de linea
-´´´
+```
 
 ### Estructura de un archivo .html
 ```html
