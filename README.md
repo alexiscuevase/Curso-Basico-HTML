@@ -11,6 +11,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 ## Empezemos
 ### Etiquetas basicas de HTML
 ```html
+
 <!–…–>	    Define un comentario
 <!DOCTYPE>	Define el tipo de docuemento
 <a>	        Define un hipervínculo
@@ -47,7 +48,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 <em>	    Define énfasis en un texto
 <embed>	    Define el contenedor de una aplicación externa (no html)
 <fieldset>	Grupo de elementos relacionados en un formulario
-<figcaption> Define el título para una figura <figure>
+<figcaption> Define el título para una figura 
 <figure>	Especifica auto-contenido
 <footer>	Define el pie de página de un documento
 <form>	    Define un formulario html
@@ -116,6 +117,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 <var>	    Define una variable
 <video>	    Define un vídeo o película
 <wbr>	    Define un posible salto de linea
+
 ```
 
 ### Estructura de un archivo .html
