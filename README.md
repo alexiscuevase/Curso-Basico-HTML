@@ -12,11 +12,11 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 ### Etiquetas basicas de HTML
 Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej: 
 
-`<etiqueta> Codigo de ejemplo </etiqueta>`
-
-`<etiqueta propiedad="valor de la propiedad"> Codigo de ejemplo </etiqueta>`
-
 ```html
+<etiqueta> Codigo de ejemplo </etiqueta>
+
+<etiqueta propiedad="valor de la propiedad"> Codigo de ejemplo </etiqueta>
+```
 
 <!–…–>	    Define un comentario
 <!DOCTYPE>	Define el tipo de docuemento
