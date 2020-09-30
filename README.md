@@ -13,10 +13,10 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 
 Etiqueta | Descripcion
 ------------ | ---------------------------------------
-**<!–…–>** | Define un comentario
-**<!DOCTYPE>** | Define el tipo de docuemento
-**<a>** | Define un hipervínculo
-**<abbr>** | Define una abreviación
+<!–…–> | Define un comentario
+<!DOCTYPE> | Define el tipo de docuemento
+<a> | Define un hipervínculo
+<abbr> | Define una abreviación
 <address> |	Define la información de contacto del autor
 <area> | Define un área dentro de un mapa de imagen
 <article> | Define un artículo
