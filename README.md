@@ -9,7 +9,7 @@ El **HTML** es un **lenguaje de marcación** de elementos para la creación de *
 Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas más. Este **lenguaje** se escribe en un documento de texto, por eso necesitamos un editor de textos para escribir una **página web**. Así pues, el archivo donde está contenido el código **HTML** es un archivo de texto, con una peculiaridad, que tiene extensión **.html** o **.htm (es indiferente cuál utilizar)**. De modo que cuando programemos en **HTML** lo haremos con un editor de textos, lo más sencillo posible y guardaremos nuestros trabajos con extensión **.html**, por ejemplo **mipagina.html**
 
 ## Empezemos
-### Etiquetas basicas de HTML
+### Ejemplo de etiquetas html
 Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej: 
 
 ```html
@@ -17,7 +17,8 @@ Recuerda que la mayoria de etiquetas **html** es de le siguiente forma Ej:
 
 <etiqueta propiedad="valor de la propiedad"> Codigo de ejemplo </etiqueta>
 ```
-
+### Etiquetas de html
+```html
 <!–…–>	    Define un comentario
 <!DOCTYPE>	Define el tipo de docuemento
 <a>	        Define un hipervínculo
