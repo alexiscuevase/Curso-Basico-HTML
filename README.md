@@ -11,7 +11,7 @@ Una vez conocemos el concepto de **HTML** os vamos a adelantar algunas cosas má
 ## Empezemos
 ### Etiquetas basicas de HTML
 Etiqueta | Descripcion
----------- | ---------------------------------------------------------
+-------- | ---------------------------------------------------------
 <!–…–> | Define un comentario
 <!DOCTYPE> | Define el tipo de docuemento
 <a> | Define un hipervínculo
@@ -117,6 +117,11 @@ Etiqueta | Descripcion
 <var> |	Define una variable
 <video> |	Define un vídeo o película
 <wbr> |	Define un posible salto de linea
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ### Estructura de un archivo .html
 ```html
